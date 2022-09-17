@@ -1,0 +1,7 @@
+.container {
+    border: 1px solid lightgrey;
+}
+.container >.row:nth-child(2) div {
+    background-color: #F8D7DA;
+    color: #721C23;
+}
